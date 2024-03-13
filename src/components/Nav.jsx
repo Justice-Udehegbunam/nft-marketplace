@@ -1,6 +1,6 @@
 import React from "react";
 import { logo } from "../assets";
-import Button from "./Button";
+import Button from "./reusables/Button";
 
 const Nav = () => {
   return (

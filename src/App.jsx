@@ -1,4 +1,5 @@
 import Hero from "./components/Hero";
+import LatestLiveAuctions from "./components/LatestLiveAuctions";
 import Nav from "./components/Nav";
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       >
         <Nav />
         <Hero />
+        <LatestLiveAuctions />
       </div>
     </>
   );
