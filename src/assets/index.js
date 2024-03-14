@@ -20,6 +20,14 @@ import auction2 from "./img/Image (1).png";
 import auction3 from "./img/Image (2).png";
 import auction4 from "./img/Image (3).png";
 import auction5 from "./img/image5.png";
+import avatar1 from "./img/Avatars.png";
+import avatar2 from "./img/Avatars (1).png";
+import avatar3 from "./img/Avatars (2).png";
+import avatar4 from "./img/Avatars (3).png";
+import avatar5 from "./img/Avatars (4).png";
+import timer from "./img/Timer Icon.png";
+import heartOn from "./svg/heart-icon-on.svg";
+import heartOFf from "./svg/heart-icon-off.svg";
 
 export {
   logo,
@@ -44,4 +52,12 @@ export {
   auction3,
   auction4,
   auction5,
+  avatar1,
+  avatar2,
+  avatar3,
+  avatar4,
+  avatar5,
+  timer,
+  heartOn,
+  heartOFf,
 };
