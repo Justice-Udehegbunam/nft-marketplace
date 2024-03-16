@@ -28,6 +28,8 @@ import avatar5 from "./img/Avatars (4).png";
 import timer from "./img/Timer Icon.png";
 import heartOn from "./svg/heart-icon-on.svg";
 import heartOFf from "./svg/heart-icon-off.svg";
+import rightImage from "./img/Right - Image.png";
+import leftImage from "./img/Left - Image.png";
 
 export {
   logo,
@@ -60,4 +62,6 @@ export {
   timer,
   heartOn,
   heartOFf,
+  rightImage,
+  leftImage,
 };

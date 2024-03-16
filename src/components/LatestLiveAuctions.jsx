@@ -4,7 +4,7 @@ import LatestLiveAuctionCard from "./reusables/LatestLiveAuctionCard";
 
 const LatestLiveAuctions = () => {
   return (
-    <section className="mt-48">
+    <section className="mt-48" id="auctions">
       <h3 className="text-white text-4xl text-center">Latest live auctions</h3>
 
       <div className="flex gap-6 flex-wrap justify-center mt-16">
